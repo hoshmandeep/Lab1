@@ -1,0 +1,14 @@
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.exe
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.deps.json
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.runtimeconfig.json
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.runtimeconfig.dev.json
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.dll
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\bin\Debug\netcoreapp3.1\Lab1_Geometry2D.pdb
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.csproj.AssemblyReference.cache
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.GeneratedMSBuildEditorConfig.editorconfig
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.AssemblyInfoInputs.cache
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.AssemblyInfo.cs
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.csproj.CoreCompileInputs.cache
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.dll
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.pdb
+D:\sem 3\oo Iot1030\Labs\Lab1\Lab1_Geometry@D\obj\Debug\netcoreapp3.1\Lab1_Geometry2D.genruntimeconfig.cache
