@@ -1,9 +1,45 @@
-using Microsoft.VisualStudio.TestTools.UnitTesting;
-using Geometry2D;
 using System;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+using Lab1_Geometry2D.Geometry2D;
+
 
 namespace Geometry2DUnittest
 {
+
+	using Lab1_Geometry2D.Particles;
+
+	using System;
+	[TestClass]
+	public class ParticleTest
+	{
+		[TestMethod]
+		public void TestDrift()
+		{
+			
+			Phonon p = new Phonon(1);
+
+			// position of x and y
+			p.SetCoords(1,1);
+			
+			Assert.AreEqual(1, p.Position.X);
+			Assert.AreEqual(1, p.Position.Y);
+
+			//direction of x and y
+			p.SetDirection(10, 15);
+			
+			Assert.AreEqual(10, p.Direction.DX);
+			Assert.AreEqual(15, p.Direction.DY);
+
+			
+
+			
+			
+
+
+
+		}
+	}
+
 	public class PointTests
 	{
 		[TestMethod]
